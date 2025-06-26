@@ -98,7 +98,7 @@ html {
   display: flex;
   justify-content: center;
   justify-self: center;
-  /* position: fixed; */
+  position: fixed;
   z-index: 100000;
   align-items: center;
   top: 0;
